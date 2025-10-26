@@ -1,5 +1,5 @@
  # Hi, i am Mariam Abike Arogundade
-Data science and Analytics student|eccel| powerbi|python
+Data science and Analytics student|excel| powerbi|python
 Welcome to my GitHub profile!
 I use this space to share my data projects, reports, and dashboards.
 
